@@ -25,11 +25,8 @@ export default function Home() {
   return (
     <Layout>
       <div className="container-front">
-        <div className="logo">
-          <img src="/images/logo.jpeg" alt="Logo" />
-        </div>
         <h4 className="h4-home">January 1 - 3, 2025 | Online Event</h4>
-        <h1 className="title">ONOVA HACKS</h1>
+        <h1 className="title">BEGINNER HACKS</h1>
         <p className="opening">Beginner Friendly Hackathon - Explore New Ideas</p>
         <p className="deadline">Application deadline: December 15, 2024</p>
         <div className="button-home">
